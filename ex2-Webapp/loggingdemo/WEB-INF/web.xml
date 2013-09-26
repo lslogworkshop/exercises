@@ -8,7 +8,7 @@
 
     <servlet-mapping>
 		<servlet-name>LoggingServlet</servlet-name>
-		<url-pattern>/test1</url-pattern>
+		<url-pattern>/logtest</url-pattern>
 	</servlet-mapping> 
 
 </web-app>
